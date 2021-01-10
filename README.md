@@ -28,4 +28,7 @@ open the file in cherrytree ill update them when i can
 
 # i hope these notes help you
 
-please do not use these to be a black hate please join the good guys
+please do not use these to be a black hat please join the good guys
+
+
+you dont need cherry tree for the pdf files 
