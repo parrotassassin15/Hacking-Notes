@@ -10,7 +10,7 @@ sudo apt install cherrytree
 
 arch:
 <pre>
-pacman install cherrytree
+sudo pacman -Sy cherrytree      
 </pre>
 
 windows:
